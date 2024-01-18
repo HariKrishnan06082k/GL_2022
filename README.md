@@ -1,7 +1,7 @@
 # **Development of Grasp localization system with deep learning aided vision system**
 ## B.Tech final project- SRM IST ' 2022
 
-### **Contributors:** Jemuel Stanley Premkumar (jemprem@umich.edu), Harikrishnan Seetharaman (hariksee@umich.edu) and Gautham Ganesh Prasad
+### **Contributors:** Harikrishnan Seetharaman (hariksee@umich.edu), Jemuel Stanley Premkumar (jemprem@umich.edu) and Gautham Ganesh Prasad
 
 ## **CONTENTS**
 - [Introduction](#introduction)
